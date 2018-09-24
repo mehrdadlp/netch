@@ -1,0 +1,29 @@
+{
+  "name": "netch",
+  "version": "1.0.0",
+  "description": "a simple tool to check internet connection quality",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrdadlp/netch.git"
+  },
+  "keywords": [
+    "internet",
+    "connection",
+    "network",
+    "health"
+  ],
+  "author": "mehrdad <mehrdad_lp1011@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehrdadlp/netch/issues"
+  },
+  "homepage": "https://github.com/mehrdadlp/netch#readme",
+  "dependencies": {
+    "commander": "2.18.0",
+    "ping": "0.2.2"
+  }
+}
